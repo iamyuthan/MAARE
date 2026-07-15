@@ -32,7 +32,7 @@ MAARE injects into every page and overrides the browser's native `fetch` and `XM
    ```bash
    git clone https://github.com/iamyuthan/MAARE.git
    ```
-   Or download the latest version from release and unzip it.
+   Or download the latest zip version from the [release](https://github.com/iamyuthan/MAARE/releases) and unzip it.
 2. Open Chrome and go to `chrome://extensions`
 3. Enable **Developer mode** (top-right toggle)
 4. Click **Load unpacked** and select the `MAARE` folder
